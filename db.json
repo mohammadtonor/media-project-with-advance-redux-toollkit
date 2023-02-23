@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Hector Hamill",
+      "id": 5
+    },
+    {
+      "name": "Myrtle Heaney",
+      "id": 6
+    },
+    {
+      "name": "Frankie Kautzer",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 5,
+      "title": "Oriental Rubber Sausages",
+      "id": 24
+    },
+    {
+      "userId": 5,
+      "title": "Sleek Bronze Pizza",
+      "id": 25
+    },
+    {
+      "userId": 4,
+      "title": "Licensed Metal Soap",
+      "id": 30
+    },
+    {
+      "userId": 6,
+      "title": "Licensed Soft Tuna",
+      "id": 33
+    },
+    {
+      "userId": 3,
+      "title": "Generic Soft Chair",
+      "id": 34
+    },
+    {
+      "userId": 3,
+      "title": "Gorgeous Soft Keyboard",
+      "id": 35
+    },
+    {
+      "userId": 7,
+      "title": "Fantastic Granite Soap",
+      "id": 36
+    },
+    {
+      "userId": 3,
+      "title": "Gorgeous Rubber Salad",
+      "id": 37
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 30,
+      "url": "https://loremflickr.com/150/150/abstract?lock=47548",
+      "id": 4
+    },
+    {
+      "albumId": 30,
+      "url": "https://loremflickr.com/150/150/abstract?lock=50205",
+      "id": 5
+    },
+    {
+      "albumId": 34,
+      "url": "https://loremflickr.com/150/150/abstract?lock=74028",
+      "id": 17
+    },
+    {
+      "albumId": 36,
+      "url": "https://loremflickr.com/150/150/abstract?lock=73044",
+      "id": 22
+    },
+    {
+      "albumId": 34,
+      "url": "https://loremflickr.com/150/150/abstract?lock=79111",
+      "id": 26
+    },
+    {
+      "albumId": 34,
+      "url": "https://loremflickr.com/150/150/abstract?lock=65956",
+      "id": 27
+    },
+    {
+      "albumId": 34,
+      "url": "https://loremflickr.com/150/150/abstract?lock=64548",
+      "id": 28
+    },
+    {
+      "albumId": 36,
+      "url": "https://loremflickr.com/150/150/abstract?lock=53588",
+      "id": 29
+    }
+  ]
+}
